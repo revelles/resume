@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20221104T130000Z
+DTEND:20221104T140000Z
+DTSTAMP:20221103T192350Z
+ORGANIZER;CN=interview23@risebird.io:mailto:interview23@risebird.io
+UID:7cedcellqd2168lvd3gunlc1v0@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=interview23@risebird.io;X-NUM-GUESTS=0:mailto:interview23@risebird.io
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=francisco.revelles@gmail.com;X-NUM-GUESTS=0:mailto:francisco.revelles@g
+ mail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=jyothi.kotta@photon.com;X-NUM-GUESTS=0:mailto:jyothi.kotta@photon.com
+X-MICROSOFT-CDO-OWNERAPPTID:35226524
+CREATED:20221103T192346Z
+DESCRIPTION:Event Name: PHOTON | Full Stack Developer | Video Interview\n\n
+ Interview Support Toll Free number 1888-3813-119\n\nLocation: This is a Zoo
+ m web conference.\n\nYou can join this meeting from your computer\, tablet\
+ , or smartphone.\nhttps://us02web.zoom.us/j/85323001159?pwd=UStaNWlRS09aOXh
+ UdTM1cFBMVFBWQT09\n\nPassword: 653114\n\nOne tap mobile:\n+1 309 205 3325\,
+ \,85323001159#\n+1 312 626 6799\,\,85323001159#\n\nYou can also dial in usi
+ ng your phone.\nUS: +1 309 205 3325\, +1 312 626 6799\, +1 646 931 3860\, +
+ 1 929 436 2866\, +1 301 715 8592\, +1 346 248 7799\, +1 360 209 5623\, +1 3
+ 86 347 5053\, +1 507 473 4847\, +1 564 217 2000\, +1 669 444 9171\, +1 669 
+ 900 6833\, +16892781000\, +1 719 359 4580\, +1 253 215 8782\nMeeting ID: 85
+ 3-230-01159\n\nFind your local number: https://us02web.zoom.us/u/kK0aSwXRs\
+ n\nInterview Channel ID: PHOTOFSDND\n\nPhoton HR Coordinator : nikhil.agarw
+ al@photon.com\n\nPlease checkmark your available infra for the video interv
+ iew:\nLaptop on which coding can be done\nHigh Speed Internet Bandwidth\nWo
+ rking Webcam\n\nNeed to make changes to this event?\nCancel: https://calend
+ ly.com/cancellations/0eecc7d2-2c7a-4549-b609-8fb06c168ee6\nReschedule: http
+ s://calendly.com/reschedulings/0eecc7d2-2c7a-4549-b609-8fb06c168ee6\n
+LAST-MODIFIED:20221103T192346Z
+LOCATION:https://us02web.zoom.us/j/85323001159?pwd=UStaNWlRS09aOXhUdTM1cFBM
+ VFBWQT09
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PHOTON | Full Stack Developer | Video Interview
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

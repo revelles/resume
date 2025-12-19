@@ -1,0 +1,13 @@
+# LaTeX temporary files
+*.aux
+*.log
+*.out
+*.toc
+*.pdf
+*.gz
+
+# Build directory
+dist/
+
+# macOS system files
+.DS_Store
